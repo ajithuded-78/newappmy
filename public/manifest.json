@@ -1,0 +1,18 @@
+{
+  "name": "LSRIS - Sales Intelligence",
+  "short_name": "LSRIS",
+  "description": "Local Sales & Revenue Intelligence System - Private Owner Dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#22d3d3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["business", "finance", "productivity"]
+}
